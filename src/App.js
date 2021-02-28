@@ -44,7 +44,12 @@ const App = () => {
 
   return (
     <div className="App">
-      {isInit?<input type="text" onInput={onInput}></input>:""}
+      {isInit?(
+        <div className="searchbox">
+          <label for="searchbox__label">イベント名</label>
+          <input id="searchbox__text" type="text" onInput={onInput}></input>
+        </div>
+      ):""}
       <SuggestedEvents events={suggests}></SuggestedEvents>
     </div>
   );
