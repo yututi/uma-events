@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/uma-events/static/css/main.cb6d8f3f.chunk.css",
-    "main.js": "/uma-events/static/js/main.5128db51.chunk.js",
-    "main.js.map": "/uma-events/static/js/main.5128db51.chunk.js.map",
+    "main.css": "/uma-events/static/css/main.d5bcc99f.chunk.css",
+    "main.js": "/uma-events/static/js/main.cf95c013.chunk.js",
+    "main.js.map": "/uma-events/static/js/main.cf95c013.chunk.js.map",
     "runtime-main.js": "/uma-events/static/js/runtime-main.ee556fc5.js",
     "runtime-main.js.map": "/uma-events/static/js/runtime-main.ee556fc5.js.map",
     "static/js/2.75d9db15.chunk.js": "/uma-events/static/js/2.75d9db15.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.65bb9680.chunk.js": "/uma-events/static/js/3.65bb9680.chunk.js",
     "static/js/3.65bb9680.chunk.js.map": "/uma-events/static/js/3.65bb9680.chunk.js.map",
     "index.html": "/uma-events/index.html",
-    "static/css/main.cb6d8f3f.chunk.css.map": "/uma-events/static/css/main.cb6d8f3f.chunk.css.map",
+    "static/css/main.d5bcc99f.chunk.css.map": "/uma-events/static/css/main.d5bcc99f.chunk.css.map",
     "static/js/2.75d9db15.chunk.js.LICENSE.txt": "/uma-events/static/js/2.75d9db15.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ee556fc5.js",
     "static/js/2.75d9db15.chunk.js",
-    "static/css/main.cb6d8f3f.chunk.css",
-    "static/js/main.5128db51.chunk.js"
+    "static/css/main.d5bcc99f.chunk.css",
+    "static/js/main.cf95c013.chunk.js"
   ]
 }
